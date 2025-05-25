@@ -7,4 +7,10 @@ Deskripsi Singkat :
 Tujuan : dapat memanage parkir secara real-time
 Target SDGs : SDG 9 - Industry, Innovation.
 Skema :1
-Komponen : Sensor Ultrasonic HC-SR04 : 1, Ultrasonic pendek : 1, IR Break bemm atau IR Get sensor : 1, Servo Motor : 1, Rgb Led : 5, Oled : 1, 
+Komponen : 
+Sensor Ultrasonic HC-SR04 : 1, 
+Ultrasonic pendek : 1, 
+IR Break bemm atau IR Get sensor : 5, 
+Servo Motor : 1, 
+Rgb Led : 5, 
+Oled : 2, 
