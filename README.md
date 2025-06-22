@@ -45,7 +45,7 @@ Pengendara akan mendekati gerbang parkir dapat melihat total pengunjung dan sisa
 | *Servo Motor*             | 2      | Membuka/Tutup palang otomatis                                   |
 | *RGB LED*                 | 2      | Menunjukkan status slot parkir (hijau = kosong, merah = penuh)  |
 | *OLED I2C Display (0.96”)*| 1      | Menampilkan jumlah slot yang tersedia                           |
-| *RFID MFRC522           * | 1      | Mengendalikan sistem dan koneksi ke WiFi                        |
+| *RFID MFRC522*            | 1      | Mengendalikan sistem dan koneksi ke WiFi                        |
 | *ESP32 / Microcontroller* | 1      | Mengendalikan sistem dan koneksi ke WiFi                        |
 
 ---
